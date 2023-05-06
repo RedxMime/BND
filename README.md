@@ -1,2 +1,2 @@
-# discord-nuke-bot
+# Discord-Nuke-Bot
 Discord Nuke Bot

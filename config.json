@@ -1,12 +1,12 @@
 {   
-    "token": "your_token_here",
+    "token": "MTExMjAyMzAwMzY1NjYyNjIwNg.GRSrFP.cdZAQ3YlVNTk78yevfncz4tipOJtQ24zZbMUhM",
 
 
     "nuke_on_join": "no",
-    "guild_name": "Get nuked",
+    "guild_name": "NUKED BY TGT",
     "ban_all": "no",
-    "channel_name": "get nuked",
+    "channel_name": "NUKED BY TGT",
     "channel_name2": "",
-    "text": "@everyone nuked",
-    "audit_log_reason": "nuked"
+    "text": "@everyone nuked by TGT",
+    "audit_log_reason": "NUKED BY TGT"
 }

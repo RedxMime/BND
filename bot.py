@@ -38,21 +38,17 @@ class COLORS:
 @client.event
 async def on_ready():
     print(f'''
-                    {COLORS.b}                     ███▄    █  █    ██  ▀██ ▄█▀▓█████ ██▀███  
-                    {COLORS.b}                     ██ ▀█   █  ██  ▓██▒  ██▄█▒ ▓█   ▀▓██ ▒ ██▒
-                    {COLORS.b}                   ▓██  ▀█ ██▒▓██  ▒██░ ▓███▄░ ▒███  ▓██ ░▄█ ▒
-                    {COLORS.b}                    ▓██▒  ▐▌██▒▓▓█  ░██░ ▓██ █▄ ▒▓█  ▄▒██▀▀█▄  
-                    {COLORS.b}                    ▒██░   ▓██░▒▒█████▓  ▒██▒ █▄░▒████░██▓ ▒██▒
-                    {COLORS.b}                    ░ ▒░   ▒ ▒  ▒▓▒ ▒ ▒  ▒ ▒▒ ▓▒░░ ▒░ ░ ▒▓ ░▒▓░
-                    {COLORS.b}                    ░ ░░   ░ ▒░ ░▒░ ░ ░  ░ ░▒ ▒░ ░ ░    ░▒ ░ ▒░
-                    {COLORS.b}                       ░   ░ ░   ░░ ░ ░  ░ ░░ ░    ░     ░   ░ 
-                    {COLORS.b}                             ░    ░      ░  ░      ░     ░     
+
+{COLORS.B}█─▄─▄─█─▄▄▄▄█─▄─▄─█
+{COLORS.B}███─███─██▄─███─███
+{COLORS.B}▀▀▄▄▄▀▀▄▄▄▄▄▀▀▄▄▄▀▀
+
 
 
                                             {Fore.RESET}Logged in as {client.user}
                                             Prefix: {client.command_prefix}
 
-                                            {COLORS.b}Made by https://github.com/govaaaa{Fore.RESET}''')
+                                            {COLORS.b}Now running for TGT{Fore.RESET}''')
     time.sleep(2)
     print(f''' 
 
